@@ -1,0 +1,31 @@
+
+
+.sidebar_experienceslot__component{
+    display:flex;
+    background-color:black;
+    gap:10px;
+    width:var(--component-width);
+    align-items: center;
+}
+
+
+.sidebar_experienceslot__subtitle p{
+    font-size:13px;
+    color:#ffffffad;
+}
+
+
+.sidebar_experienceslot_text{
+    padding:10px;
+}
+
+.sidebar_experienceslot_dragbar{
+    align-items: center;
+    display:flex;
+    padding:10px;
+    height:55px;
+}
+
+.sidebar_experienceslot_dragbar:hover{
+background-color:#ffffff3d;
+}
